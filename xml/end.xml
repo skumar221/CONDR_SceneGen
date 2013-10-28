@@ -1,0 +1,22 @@
+	<Hierarchy
+		allowMultipleChildren="true"
+		attributes="SceneViewHierarchy:true"
+		hideFromEditors="false"
+		id="vtkMRMLHierarchyNodeSceneViewTopLevel"
+		name="Scene Views"
+		selectable="true"
+		selected="false"
+		sortingValue="0"/>
+
+	<SceneViewStorage
+		fileName="Master%20Scene%20View.png"
+		hideFromEditors="true"
+		id="vtkMRMLSceneViewStorageNode1"
+		name="SceneViewStorage"
+		readState="0"
+		selectable="true"
+		selected="false"
+		useCompression="1"
+		writeState="4"/>
+
+</MRML>
